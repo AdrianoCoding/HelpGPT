@@ -1,30 +1,34 @@
 # HelpGPT 🤖
 
-O HelpGPT é uma aplicação desenvolvida para auxiliar pessoas no uso do EF Core e Z.EntityFramework.Extensions. Esta ferramenta foi projetada para fornecer suporte e orientação sobre as funcionalidades dessas tecnologias, tornando mais fácil para os usuários compreenderem e utilizarem esses frameworks.
+HelpGPT is an application developed to assist people in using EF Core and Z.EntityFramework.Extensions. This tool is designed to provide support and guidance on the functionalities of these technologies, making it easier for users to understand and utilize these frameworks.
 
-## Funcionalidades
+## Features
 
-- Oferece orientações passo a passo sobre como utilizar o EF Core e Z.EntityFramework.Extensions.
-- Fornece exemplos de código práticos para ajudar na compreensão.
-- Possui uma interface amigável para uma experiência de usuário mais intuitiva.
+- Provides step-by-step guidance on using EF Core and Z.EntityFramework.Extensions.
+- Offers practical code examples to aid in understanding.
+- Has a user-friendly interface for an intuitive user experience.
 
 ### Download
 
-| Sistema Operacional | Download                                                                                      |
-|---------------------|-----------------------------------------------------------------------------------------------|
-| Windows             | [Download Aqui](https://github.com/NeuronNix/HelpGPT/windows)                                 |
-| Linux               | [Download Aqui](https://github.com/NeuronNix/HelpGPT/linux)                                   |
+| Operating System | Download                                                      |
+|------------------|---------------------------------------------------------------|
+| Windows          | [Download Here](https://github.com/NeuronNix/HelpGPT/windows) |
+| Linux            | [Download Here](https://github.com/NeuronNix/HelpGPT/linux)   |
 
-## Como Funciona
+## How It Works
 
-Para utilizar o HelpGPT, basta realizar o download adequado para o seu sistema operacional e seguir as instruções fornecidas no aplicativo. Você poderá acessar informações, exemplos de código e dicas úteis para maximizar seu uso do EF Core e Z.EntityFramework.Extensions.
+To use HelpGPT, simply download the appropriate version for your operating system and follow the instructions provided within the application. You'll be able to access information, code examples, and useful tips to maximize your usage of EF Core and Z.EntityFramework.Extensions.
 
-Este projeto é uma maneira de simplificar o aprendizado e uso dessas tecnologias complexas.
+This project aims to simplify the learning and usage of these complex technologies.
 
-## Contribuição
+## API Credits
 
-Se você deseja contribuir para o aprimoramento do HelpGPT, sinta-se à vontade para fazer um fork do repositório, desenvolver melhorias e enviar um pull request.
+This project utilizes the [dark API](https://t.me/dark_api) for certain functionalities.
+
+## Contribution
+
+If you wish to contribute to enhancing HelpGPT, feel free to fork the repository, make improvements, and submit a pull request.
 
 ---
 
-*Feito com ❤️ por [Adriano Jr](https://github.com/NeuronNix/)*
+*Made with ❤️ by [Adriano Jr](https://github.com/NeuronNix/)*
