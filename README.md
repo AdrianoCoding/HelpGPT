@@ -12,8 +12,8 @@ HelpGPT is an application developed to assist people in using EF Core and Z.Enti
 
 | Operating System | Download                                                      |
 |------------------|---------------------------------------------------------------|
-| Windows          | [Download Here](https://github.com/NeuronNix/HelpGPT/windows) |
-| Linux            | [Download Here](https://github.com/NeuronNix/HelpGPT/linux)   |
+| Windows          | [Download Here](https://github.com/NeuronNix/HelpGPT/blob/main/download-finale/windows-version/HelpGPT) |
+| Linux            | [Download Here](https://github.com/NeuronNix/HelpGPT/blob/main/download-finale/linux-version/bot.py)   |
 
 ## How It Works
 
