@@ -24,7 +24,7 @@ while True:
     if user_input.lower() == 'exit':
         break
 
-    print('\n\n\nThinking...\n')
+    print('\n\n\nThinking... Wait\n')
     print('For exit press: ctrl + z')
     response = requests.get(url, params=params)
     data = response.json()
