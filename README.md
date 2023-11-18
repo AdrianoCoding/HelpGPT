@@ -31,4 +31,25 @@ If you wish to contribute to enhancing HelpGPT, feel free to fork the repository
 
 ---
 
+### Tutorial
+
+#### Linux:
+
+1. Open the project folder within the terminal.
+2. Activate the Python environment.
+   - Command: `source .files/bin/activate`
+3. Run the script.
+   - Command: `python3 bot.py`
+4. Ask your questions and enjoy assistance from the script.
+
+   Note: To exit, type "exit" and press Enter or press Ctrl + Z.
+
+#### Windows:
+
+1. Download the .exe file.
+2. Execute the file.
+
+   Note: Your antivirus might detect it as a suspicious file, but this occurs only on the first execution.
+
+
 *Made with ❤️ by [Adriano Jr](https://github.com/NeuronNix/)*
