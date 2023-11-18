@@ -19,11 +19,12 @@ print(Fore.WHITE + ascii_art)
 
 print(Fore.WHITE + 'Welcome to Help GPT, the script that assists you with AI in resolving queries regarding EF Core and Z.EntityFramework.Extensions!')
 time.sleep(4)
-print(Fore.WHITE + 'select an option')
+print(Fore.WHITE + '\n\nselect an option')
 print(Fore.WHITE + '\n [1] Assistent with IA \n [2] Config \n [3] Github (credits) \n [4] Exit')
 num = int(input("Typing a option: "))
 
-if num == '1':
+if num == 1:
+    print('\n\n\n All right, make your question \n')
     while True:
         user_input = input(Fore.RED + 'Your question: ')
         params = {"query": user_input}
@@ -36,7 +37,7 @@ if num == '1':
         data = response.json()
         print(Fore.GREEN + str(data))  # converted data to string for printing
 
-if num == '2':
+if num == 2:
     print('Sorry, this option has not yet been developed')
 
 if num == 3:
