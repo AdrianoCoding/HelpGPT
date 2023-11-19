@@ -2,7 +2,7 @@ import requests
 import time
 from colorama import Fore
 import webbrowser
-import os
+import textwrap
 
 
 url = "https://freegptapi.hop.sh/neural/api"
@@ -35,7 +35,11 @@ if num == 1:
         print('For exit press: ctrl + z')
         response = requests.get(url, params=params)
         data = response.json()
-        print(Fore.GREEN + str(data))  # converted data to string for printing
+
+        if 'answer' in data:
+            answer_text = data['answer']
+            formatted_text = textwrap.fill(answer_text, width=80)  # Ajuste a largura conforme desejado
+            print(Fore.GREEN + formatted_text)
 
 if num == 2:
     print('Sorry, this option has not yet been developed')
@@ -44,7 +48,7 @@ if num == 3:
     print('visit the github ')
     print(url)
     url = 'https://github.com/NeuronNix/HelpGPT'
-    time.sleep(2)
+    time.sleep(3)
     webbrowser.open(url)
 
 if num == 4:
