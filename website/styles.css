@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@1,300&display=swap');
+
+* {
+    background-color: #000000;
+    color: aliceblue;
+    font-family: 'Source Code Pro', monospace;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.messtart {
+    margin-top: 30px;
+    text-align: center; /* Alinha o texto centralmente */
+}
+
+.messtart img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+.github-icon{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
