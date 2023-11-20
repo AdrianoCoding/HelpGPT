@@ -13,7 +13,7 @@ HelpGPT is an application developed to assist people in utilizing EF Core and Z.
 | Operating System | Download                                                      |
 |------------------|---------------------------------------------------------------|
 | Windows          | [Download Here](https://github.com/NeuronNix/HelpGPT/releases/tag/release) |
-| Linux            | [Download Here](https://github.com/NeuronNix/HelpGPT/archive/refs/tags/release.zip)   |
+| Linux            | [Download Here](https://github.com/NeuronNix/HelpGPT/releases/tag/release)   |
 
 ## How It Works
 
