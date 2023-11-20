@@ -1,12 +1,12 @@
 # HelpGPT 🤖
 
-HelpGPT is an application developed to assist people in using EF Core and Z.EntityFramework.Extensions. This tool is designed to provide support and guidance on the functionalities of these technologies, making it easier for users to understand and utilize these frameworks.
+HelpGPT is an application developed to assist people in utilizing EF Core and Z.EntityFramework.Extensions effectively. This tool aims to provide support and guidance on these technologies' functionalities, making it easier for users to understand and use these frameworks efficiently.
 
 ## Features
 
 - Provides step-by-step guidance on using EF Core and Z.EntityFramework.Extensions.
-- Offers practical code examples to aid in understanding.
-- Has a user-friendly interface for an intuitive user experience.
+- Offers practical code examples for better understanding.
+- User-friendly interface for an intuitive experience.
 
 ### Download
 
@@ -17,7 +17,7 @@ HelpGPT is an application developed to assist people in using EF Core and Z.Enti
 
 ## How It Works
 
-To use HelpGPT, simply download the appropriate version for your operating system and follow the instructions provided within the application. You'll be able to access information, code examples, and useful tips to maximize your usage of EF Core and Z.EntityFramework.Extensions.
+To use HelpGPT, download the appropriate version for your operating system and follow the instructions provided within the application. Access information, code examples, and useful tips to maximize your usage of EF Core and Z.EntityFramework.Extensions.
 
 This project aims to simplify the learning and usage of these complex technologies.
 
@@ -35,11 +35,10 @@ If you wish to contribute to enhancing HelpGPT, feel free to fork the repository
 
 #### Linux:
 
-1. Open the project folder within the terminal.
-2. Activate the Python environment.
-   - Command: `source .files/bin/activate`
+1. Download the executable file and save it to a directory.
+2. Open the terminal in the directory containing the saved executable file.
 3. Run the script.
-   - Command: `python3 bot.py`
+   - Command: `./HelpGPT`
 4. Ask your questions and enjoy assistance from the script.
 
    Note: To exit, type "exit" and press Enter or press Ctrl + Z.
@@ -49,7 +48,12 @@ If you wish to contribute to enhancing HelpGPT, feel free to fork the repository
 1. Download the .exe file.
 2. Execute the file.
 
-   Note: Your antivirus might detect it as a suspicious file, but this occurs only on the first execution.
+   Note: Your antivirus might detect it as a suspicious file on the first execution, but this is expected and safe.
 
+## Additional Notes
+
+- **Detailed Installation Instructions:** Ensure to follow the provided installation steps for a smooth setup process on both Windows and Linux.
+- **Security Measures:** Address potential antivirus warnings on first execution by assuring users of the application's legitimacy.
+- **User Support:** For feedback, support, or reporting issues, refer to [GitHub Issues](https://github.com/NeuronNix/HelpGPT/issues).
 
 *Made with ❤️ by [Adriano Jr](https://github.com/NeuronNix/)*
